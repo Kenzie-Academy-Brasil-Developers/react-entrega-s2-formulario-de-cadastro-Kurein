@@ -1,0 +1,11 @@
+.mainForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div {
+  width: 200px;
+  max-width: 200px;
+  margin: 0 auto;
+}
